@@ -32,3 +32,5 @@ On Linux the file is located at
 On Windows, the files are located in
 `C:\Documents and Settings\<Your username>\.WebIde10\config\colors`
 
+
+summit
